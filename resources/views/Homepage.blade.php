@@ -9,10 +9,9 @@
     
 </head>
     <x-Navbar/>
-<body>
+    <x-Sidebar/>
+<body class="bg-white">
   
 </body>
-<div class="">
     <x-Footer/>
-</div>
 </html>
