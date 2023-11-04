@@ -1,4 +1,4 @@
-<div class="navbar bg-red-700">
+
     <div class="flex-1">
       <a class="btn btn-ghost normal-case text-xl text-white">Admin</a>
     </div>
