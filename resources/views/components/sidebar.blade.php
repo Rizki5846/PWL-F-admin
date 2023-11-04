@@ -7,10 +7,8 @@
     </div> 
     <div class="drawer-side">
       <label for="my-drawer-2" aria-label="close sidebar" class="drawer-overlay"></label> 
-      <ul class="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
+      <ul class="menu p-4 w-80 min-h-full bg-neutral-500 text-base-content">
         <!-- Sidebar content here -->
-        <li><a>Tambah Data</a></li>
-        <li><a>Dashboard</a></li>
       </ul>
     
     </div>

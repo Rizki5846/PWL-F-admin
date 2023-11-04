@@ -21,9 +21,6 @@
                 <x-Card />
                 <x-Card />
                 <x-Card />
-                <x-Card />
-                <x-Card />
-                <x-Card />
             </div>
         </div>
     </body>
